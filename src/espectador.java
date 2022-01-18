@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author Eloy, Isabel, Victor
+ *
+ */
 public class espectador {      
 	//valores          
 	protected String nombre;     
