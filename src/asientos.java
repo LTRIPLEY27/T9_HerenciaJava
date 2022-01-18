@@ -28,7 +28,7 @@ public class asientos {
 					String sillaString=String.valueOf(sillaNum);
 					//Asignamos el numero del asiento, empezara por 8, acabara en 1
 					asiento[i][j]=silla;
-					System.out.print(asiento[i][j]+" ");
+					System.out.print(asiento[i][j]);
 					//Asignamos la letra en la posicion exacta de la silla, empieza por A, acaba en I
 					asiento[i][j]= sillaString;
 					System.out.print(asiento[i][j]+" ");
