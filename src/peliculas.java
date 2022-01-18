@@ -3,7 +3,8 @@
  * @author Eloy, Isabel, Víctor
  *
  */
-public class peliculas {           //valores     
+public class peliculas {           
+	//valores     
 	protected String titulo;     
 	protected double duracion;     
 	protected String director;          
